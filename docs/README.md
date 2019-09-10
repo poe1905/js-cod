@@ -39,6 +39,10 @@
   ```
   // 在本章目录下输出 add 目录下的意思," . " 是目录下的全部文件的意思
   git add .
+  //给本次上传添加一个描述 描述为引号中间的部分
+  git commit -m "first commit"
+  //等待上传目录
+  git push -u origin master
   ```
 
   
