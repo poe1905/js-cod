@@ -1,26 +1,16 @@
-# 创建一个新的笔记
+# 创建一个新的网上笔记
 
-> # 我也是一个新的标题
-
-## 我这样就是一个副标题了
+<https://docsify.js.org/#/>
 
 
 
-* 三星的标题
+1.npm i docsify-cli -g  
 
-  * 副标题
+2.docsify init ./docs
 
-* 我还是一个标题
+3.docsify serve docs  输入就可以看到本地笔记
 
-  ```js
-  //我这个是一个js 代码框
-  ```
 
-  我又修改了这个笔记本
-
-  * 再次更新会是什么样的一种情况
-
-这样我就上传了两次git版本并且吧本地上面写的md,并且可以在git域下实现预览
 
 # 初始化git项目
 
@@ -30,7 +20,7 @@
   git init
   git add .
   git commit -m "first commit"
-  git remote add origin https://github.com/lixiaohui100200/book33.git
+  git remote add origin https://个人git网址.git
   git push -u origin master
   ```
 
@@ -47,3 +37,8 @@
 
   
 
+### js 笔记
+
+#### 第二部分学习
+
+* 更新到数组部分(19/9/11)
