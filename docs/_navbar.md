@@ -5,3 +5,6 @@
   * [对象(┭┮﹏┭┮)](js笔记/js_day5对象.md)
   * [待定(▼皿▼#)](js笔记/js笔记ver.md)
 
+* WEB apis笔记▼
+
+  * [介绍(o^^o)♪](WebAP笔记/js_day3数组学习笔记.md)
