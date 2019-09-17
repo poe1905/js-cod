@@ -7,4 +7,5 @@
 
 * WEB apis笔记▼
 
-  * [介绍(o^^o)♪](WebAP笔记/js_day3数组学习笔记.md)
+  * [介绍-(o^^o)♪](WebAP笔记/bay1.md)
+
