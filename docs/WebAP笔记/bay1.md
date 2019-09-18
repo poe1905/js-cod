@@ -45,7 +45,15 @@ document.getElementsByTagName(tagname);
 document.getElementsByClassName(classname)
 ```
 
+#### getElementsByName("")
 
+* 获取html结构中相同**name 名称**的标签,在表单当中常用 应为多数的按钮是一个name
+* 返回一个伪数组
+
+####  获取到数组或者伪数组
+
+*  直接使用for 循环遍历使用数组内的元素
+*  因为for 是底层循环, 伪数组不可以使用forech(数组循环)
 
 ## 注册事件 
 

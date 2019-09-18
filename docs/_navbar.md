@@ -8,4 +8,5 @@
 * WEB apis笔记▼
 
   * [介绍-(o^^o)♪](WebAP笔记/bay1.md)
+  * [事件操作-(o^^o)♪](WebAP笔记/bay2.md)
 
