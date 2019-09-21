@@ -7,6 +7,6 @@
 
 * WEB apis笔记▼
 
-  * [介绍-(o^^o)♪](WebAP笔记/bay1.md)
-  * [事件操作-(o^^o)♪](WebAP笔记/bay2.md)
-
+  * [介绍-(o^^o)♪](WebAPI笔记/bay1.md)
+  * [事件操作-(o^^o)♪](WebAPI笔记/bay2.md)
+  * [属性方法总结(强烈要求记住)](WebAPI笔记/属性方法总结.md)
