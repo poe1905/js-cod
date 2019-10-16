@@ -12,3 +12,10 @@
   * [属性方法总结(强烈要求记住)](WebAPI笔记/属性方法总结.md)
   * [微博案例](WebAPI笔记/微博案例.md)
   * [前端面试题](WebAPI笔记/前端面试题js.md)
+  * [js面试题](WebAPI笔记/js试题.md)
+  * [轮播图案例](WebAPI笔记/轮播图案例.md)
+* jQuery▼
+
+  * [bay_1](jQuery笔记/bay_1.md)
+  * [bay_2](jQuery笔记/bay_2.md)
+  * [bay_3](jQuery笔记/bay_3.md)
