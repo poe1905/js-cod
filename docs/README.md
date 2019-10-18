@@ -1,45 +1,25 @@
-# 创建一个新的网上笔记
-
-<https://docsify.js.org/#/>
+# js学习的笔记
 
 
 
-1.npm i docsify-cli -g  
-
-2.docsify init ./docs
-
-3.docsify serve docs  输入就可以看到本地笔记
 
 
+与10/18号整理主要界面
 
-# 初始化git项目
+* 整理包括git的简略使用方法
+  * 终于记住了git命令了不会吧命令放到主要界面显示
 
-* 初始化
+9/22日更新笔记至WEBaip并使用自定义的导航栏
 
-  ```git
-  git init
-  git add .
-  git commit -m "first commit"
-  git remote add origin https://个人git网址.git
-  git push -u origin master
-  ```
+- 创建了导航栏
 
-* 第二次上传使用代码
+![](assets/1571390731705.png)
 
-  ```
-  // 在本章目录下输出 add 目录下的意思," . " 是目录下的全部文件的意思
-  git add .
-  //给本次上传添加一个描述 描述为引号中间的部分
-  git commit -m "first commit"
-  //等待上传目录
-  git push -u origin master
-  ```
+​	- 更新了面试笔记和案例
 
-  
+9/19日创建并上传js基础知识
 
-### js 笔记
+* 使用docsify渲染页面笔记
 
-#### 第二部分学习
 
-* 更新到数组部分(19/9/11)
-* 更新到对象部分(9/14)
+

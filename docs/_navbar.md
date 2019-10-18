@@ -1,21 +1,25 @@
-* js学习笔记▼
+* 第一阶段▼
 
-  * [数组(o^^o)♪](js笔记/js_day3数组学习笔记.md)
-  * [函数ヾ(´▽｀;)ゝ](js笔记/js_day4函数.md)
-  * [对象(┭┮﹏┭┮)](js笔记/js_day5对象.md)
-  * [待定(▼皿▼#)](js笔记/js笔记ver.md)
+  * [数组(o^^o)♪](js笔记\js基础/js_day3数组学习笔记.md)
+  * [函数ヾ(´▽｀;)ゝ](js笔记\js基础/js_day4函数.md)
+  * [对象(┭┮﹏┭┮)](js笔记\js基础/js_day5对象.md)
+  * [对象(▼皿▼#)](js笔记\js基础/js_day6对象的操作.md)
+  * [高级思想](js笔记\js基础/js_高级day1.md)
+  * [排序算法整合](js笔记\js基础/排序算法整合.md)
+* 第二阶段▼
 
-* WEB apis笔记▼
+  * [介绍WEBaip♪](js笔记\WebAPI笔记/bay1.md)
+  * [DOM对象-(o^^o)♪](js笔记\WebAPI笔记/bay2.md)
+  * [遇到的计算题](js笔记\WebAPI笔记/js试题.md)
+  * [前端面试题js](js笔记\WebAPI笔记/前端面试题js.md)
+  * [WEBaip属性方法总结](js笔记\WebAPI笔记/属性方法总结.md)
+  * [----------------------------](js笔记\WebAPI笔记/属性方法总结.md)
+  * [jQeury 介绍](js笔记\jQuery笔记/bay_1.md)
+  * [----------------------------](js笔记\jQuery笔记/bay_2.md)
+  * [jQuery属性操作](js笔记\jQuery笔记/bay_2.md)
+  * [AJAX学习](js笔记\jQuery笔记/bay_3.md)
+  * [git学习笔记](js笔记\jQuery笔记/git学习笔记.md)
 
-  * [介绍-(o^^o)♪](WebAPI笔记/bay1.md)
-  * [事件操作-(o^^o)♪](WebAPI笔记/bay2.md)
-  * [属性方法总结(强烈要求记住)](WebAPI笔记/属性方法总结.md)
-  * [微博案例](WebAPI笔记/微博案例.md)
-  * [前端面试题](WebAPI笔记/前端面试题js.md)
-  * [js面试题](WebAPI笔记/js试题.md)
-  * [轮播图案例](WebAPI笔记/轮播图案例.md)
-* jQuery▼
+* 第三阶段▼
 
-  * [bay_1](jQuery笔记/bay_1.md)
-  * [bay_2](jQuery笔记/bay_2.md)
-  * [bay_3](jQuery笔记/bay_3.md)
+  * [待定](jQuery笔记/bay_1.md)
