@@ -18,6 +18,7 @@
   * [jQuery属性操作](js笔记\jQuery笔记/bay_2.md)
   * [AJAX学习](js笔记\jQuery笔记/bay_3.md)
   * [git学习笔记](js笔记\jQuery笔记/git学习笔记.md)
+  * [nodejs笔记](js笔记/nodejs/nodejs.md)
 
 * 第三阶段▼
 
