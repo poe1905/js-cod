@@ -124,7 +124,7 @@ function Fn  ( ) { };
 
 ### new在执行的时候会做的四件事情
 
-![](C:\Users\ly\Documents\黑马文档\js学习笔记md\docs\js笔记\assets\gj04.png)
+![](assets\gj04.png)
 
 ### 静态对象和实例对象
 
