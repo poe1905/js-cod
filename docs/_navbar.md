@@ -17,6 +17,7 @@
   * [git学习笔记](js笔记\jQuery笔记/git学习笔记.md)
   * [nodejs笔记](js笔记/nodejs/nodejs.md)
   * [Vue.js笔记](js笔记/nodejs/vue.md)
+  * [头条项目](js笔记/nodejs/项目笔记.md)
 
 * 第三阶段▼
 
